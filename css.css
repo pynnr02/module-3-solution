@@ -1,0 +1,49 @@
+body {
+    background-color: #62543d;
+}
+
+h1.text-center {
+    font-size: 2.5em;
+    font-weight: bold;
+    color: #430c0e;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+
+.navbar-brand {
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.navbar-collapse {
+    border-top: 1px solid #767373;
+    background-color: #f3eeee;
+    margin-top: -1px; 
+}
+
+.navbar-nav li {
+    text-align: center;
+    font-weight: bold;
+    border-bottom: 1px solid #ccc;
+}
+
+.navbar-nav li:last-child {
+    border-bottom: none;
+}
+
+section {
+    background-color: #430c0e;
+    border: 1px solid #79300e;
+    padding: 15px;
+    margin-bottom: 30px;
+    height: 700px; 
+    overflow: auto; 
+    color: aliceblue;
+}
+
+section h3 {
+    text-align: center;
+    font-weight: bold;
+    color: aliceblue;
+}
